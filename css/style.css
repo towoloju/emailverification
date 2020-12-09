@@ -1,0 +1,14 @@
+
+
+
+.form-container{
+    width:500px;
+    top:30%;
+    left:30%;
+    position: absolute;
+   
+}
+.form-control{
+    padding:10px 0px;
+    margin-top:10px;
+}
